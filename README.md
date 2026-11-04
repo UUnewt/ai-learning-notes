@@ -8,13 +8,14 @@
 |---|---|---|
 | [`notes/01-术语与生态地图.md`](notes/01-术语与生态地图.md) | LLM / Model / Harness / Agent 的定义与关系，11 个常见名字的分类 | 2026-11-04 |
 | [`notes/02-Markdown语法速查.md`](notes/02-Markdown语法速查.md) | 常用 Markdown 语法与我实际会用的部分 | 2026-11-04 |
+| [`notes/03-Git与GitHub速查.md`](notes/03-Git与GitHub速查.md) | Git 四个区、四条命令、SSH 配置、踩过的坑 | 2026-11-04 |
 
 ## 我的学习路线
 
 - [x] 术语地图（LLM / Model / Harness / Agent）
 - [x] Markdown 写作 + VS Code 扩展
-- [ ] shell / 终端 / pwsh 7
-- [ ] GitHub 账号与 Git 四命令
+- [x] shell / 终端 / pwsh 7
+- [x] GitHub 账号与 Git 四命令 → 仓库已上线：<https://github.com/UUnewt/ai-learning-notes>
 - [ ] Skills（Humanizer-zh）
 - [ ] MCP（GitHub MCP Server）
 - [ ] DeepSeek API 接入
