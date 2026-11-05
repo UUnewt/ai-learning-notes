@@ -10,6 +10,7 @@
 | [`notes/02-Markdown语法速查.md`](notes/02-Markdown语法速查.md) | 常用 Markdown 语法与我实际会用的部分 | 2026-11-04 |
 | [`notes/03-Git与GitHub速查.md`](notes/03-Git与GitHub速查.md) | Git 四个区、四条命令、SSH 配置、踩过的坑 | 2026-11-04 |
 | [`notes/04-Codex安装与配置.md`](notes/04-Codex安装与配置.md) | Codex CLI 0.166 的安装路径、四个真实报错、DeepSeek 入口配置与链路验证 | 2026-11-05 |
+| [`notes/05-DeepSeek-API接入.md`](notes/05-DeepSeek-API接入.md) | 密钥管理、模型名现查、两种协议实测、Codex 实战任务与 Windows 沙箱坑 | 2026-11-05 |
 
 ## 我的学习路线
 
@@ -20,7 +21,7 @@
 - [x] Codex CLI 安装（ChatGPT 桌面版因网络阻断无法安装）
 - [ ] Skills（Humanizer-zh）
 - [ ] MCP（GitHub MCP Server）
-- [ ] DeepSeek API 接入（Codex 的接入链路已用假 key 验证通过）
+- [x] DeepSeek API 接入 → 已用 Codex 跑通真实任务（写文件 + 执行，消耗 0.02 元）
 
 ## 本地环境
 
